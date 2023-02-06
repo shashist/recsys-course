@@ -1,12 +1,15 @@
 # Welcome to MIPT 2023 Recommender Systems course
 
 ## Description
+This is the first run of Recommender System course at IDA department.
+
 Course objective is to provide comprehensive introduction to the field of Recommender Systems.
 
 - first part of the course will cover theoratical background for RecSys
 - next, we will discuss practical aspects of recommender system training and evaluation
 - finally we will briefly cover counterfactual evaluation from logged feedback
 
+To join this course contact https://t.me/alexey_grishanov.
 
 ## Materials
 
