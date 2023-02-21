@@ -17,7 +17,7 @@ To join this course contact https://t.me/alexey_grishanov.
 |---------|------|-------------|--------|-------|
 | 1 | February, 14 | Introduction <br /> ([A. Grishanov](https://github.com/shashist)) | [slides](week_01_Introduction/rs_lecture01.pdf) | [video](https://www.youtube.com/watch?v=jlw86T4U4hs) |
 | 2 | February, 21 | Neighborhood-Based models <br /> ([A. Grishanov](https://github.com/shashist)) | [slides](week_02_neighbourhood_based/rs_lecture02.pdf) | [video](https://www.youtube.com/watch?v=TJ90kd4pQ3E) |
-| 3 | February, 28 | Matrix Factorization models <br /> ([A. Volodkevich](https://github.com/monkey0head)) |  | |
+| 3 | February, 28 | Matrix Factorization models <br /> ([A. Volodkevich](https://github.com/monkey0head)) |  |  |
 | 4 | March, 7 | Content-based and Hybrid systems <br /> ([A. Volodkevich](https://github.com/monkey0head)) |  | |
 | 5 | March, 14 | Two-level models <br /> ([A. Volodkevich](https://github.com/monkey0head)) |  | |
 | 6 | March, 21 | Neural recommenders <br /> ([A. Volodkevich](https://github.com/monkey0head)) |  | |
