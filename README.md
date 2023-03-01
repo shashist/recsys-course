@@ -32,4 +32,4 @@ To join this course contact https://t.me/alexey_grishanov.
 | Homework | Date | Deadline | Description | Link |
 |---------|------|-------------|--------|-------|
 | 1 | March, 14 | March, 28 |  | [TBA](homework1/rs_hw1.ipynb) |
-| 2 | ~April, 7 | TBA (~ April, 14) |  | [TBA](homework2/rs_hw2.ipynb) |
+| 2 | ~April, 4 | TBA (~ April, 18) |  | [TBA](homework2/rs_hw2.ipynb) |
