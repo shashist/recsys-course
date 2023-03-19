@@ -29,7 +29,8 @@ To join this course contact https://t.me/alexey_grishanov.
 
 ## Homeworks
 
-| Homework | Date      | Deadline   | Description | Link                          |
-|---------|-----------|------------|--|-------------------------------|
-| 1 | March, 19 | April, 2   | Metrics and Models (item-based KNN, ALS, SLIM) | [Link](hw_01/rs_hw01.ipynb)   |
-| 2 | ~April, 4 | TBA (~ April, 18) |  | [TBA](homework2/rs_hw2.ipynb) |
+| Homework | Date       | Deadline          | Description | Link                                  |
+|---------|------------|-------------------|--------|---------------------------------------|
+| 1 | March, 19 | April, 2   | practical | [Link](homeworks/hw_01/rs_hw01.ipynb) |
+| 2 | March, 26  | April, 9 | competition | [TBA](homeworks/rs_hw1.ipynb)         |
+| 3 | April, 9  | April, 23 | theoretical | [TBA](homeworks/rs_hw3.ipynb)         |
