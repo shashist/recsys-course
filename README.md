@@ -21,7 +21,7 @@ To join this course contact https://t.me/alexey_grishanov.
 | 4 | March, 7 | Content-based and Hybrid systems <br /> ([A. Volodkevich](https://github.com/monkey0head)) | [slides](week_04_hybrid/rs_lecture04.pdf)                           | [video](https://www.youtube.com/watch?v=tQS_RKgm9o0)  |
 | 5 | March, 14 | Two-level models <br /> ([A. Volodkevich](https://github.com/monkey0head)) | [slides](week_05_multi-stage/rs_lecture05.pdf), [notebook](week_05_multi-stage/recsys_intro_2023.ipynb) | [video](https://www.youtube.com/watch?v=-wyl08Z_foA)  |
 | 6 | March, 21 | Neural recommenders <br /> ([A. Grishanov](https://github.com/shashist)) | [slides](week_06_neural_recommenders/rs_lecture06.pdf) |  [video](https://www.youtube.com/watch?v=v5QHslJGoHc) |
-| 7 | March, 28 | Multi-armed bandits <br /> ([A. Grishanov](https://github.com/shashist)) |                                                                     |                                                       |
+| 7 | March, 28 | Multi-armed bandits <br /> ([A. Grishanov](https://github.com/shashist)) |[slides](week_07_bandits/rs_lecture07.pdf) | [video](https://www.youtube.com/watch?v=8EfKHNDBoyA) |
 | 8 | April, 4 | Counterfactual evaluation <br /> ([A. Grishanov](https://github.com/shashist)) |                                                                     |                                                       |
 | 9 |  | |                                                                     |                                                       |
 
