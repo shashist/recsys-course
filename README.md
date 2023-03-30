@@ -31,8 +31,8 @@ To join this course contact https://t.me/alexey_grishanov.
 
 | Homework | Date       | Deadline          | Description | Link                                  |
 |---------|------------|-------------------|--------|---------------------------------------|
-| 1 | March, 19 | April, 2 | practical | [Link](homeworks/hw_01/rs_hw01.ipynb) |
-| 2 | April, 2  | April, 16 | competition | [TBA](homeworks/rs_hw1.ipynb)         |
+| 1 | March, 19 | April, 4 | practical | [Link](homeworks/hw_01/rs_hw01.ipynb) |
+| 2 | April, 4  | April, 18 | competition | [TBA](homeworks/rs_hw1.ipynb)         |
 | 3 | April, 9  | April, 23 | theoretical | [TBA](homeworks/hw_03/rs_hw03.ipynb)         |
 
 #### Grade = `min(round(#points), 10)`
