@@ -33,6 +33,6 @@ To join this course contact https://t.me/alexey_grishanov.
 |---------|------------|-------------------|--------|---------------------------------------|
 | 1 | March, 19 | April, 4 | practical | [Link](homeworks/hw_01/rs_hw01.ipynb) |
 | 2 | April, 9  | April, 23 | competition | [kaggle](https://www.kaggle.com/t/0800f2ae2090444b9ec0a4c70a293905) |
-| 3 | April, 26  | May, 9 | theoretical | [TBA](homeworks/hw_03/rs_hw03.ipynb) |
+| 3 | April, 26  | May, 9 | theoretical | [link](homeworks/hw_03/rs_hw3.pdf) |
 
 #### Grade = `min(round(#points), 10)`
