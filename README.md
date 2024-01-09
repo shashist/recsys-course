@@ -1,4 +1,4 @@
-# Welcome to MIPT 2023 Recommender Systems course
+# Welcome to MIPT 2024 Recommender Systems course
 
 ## Description
 This is the first run of Recommender System course at IDA department.
@@ -11,28 +11,27 @@ Course objective is to provide comprehensive introduction to the field of Recomm
 
 To join this course contact https://t.me/alexey_grishanov.
 
-## Materials
+## The Syllabys (expected)
 
 | Lecture | Date | Description | Materials                                                              | Video                                                 |
 |---------|------|-------------|---------------------------------------------------------------------|-------------------------------------------------------|
-| 1 | February, 14 | Introduction <br /> ([A. Grishanov](https://github.com/shashist)) | [slides](week_01_introduction/rs_lecture01.pdf)                     | [video](https://www.youtube.com/watch?v=jlw86T4U4hs)  |
-| 2 | February, 21 | Neighborhood-Based models <br /> ([A. Grishanov](https://github.com/shashist)) | [slides](week_02_neighbourhood_based/rs_lecture02.pdf)              | [video](https://www.youtube.com/watch?v=TJ90kd4pQ3E)  |
-| 3 | February, 28 | Matrix Factorization models <br /> ([A. Volodkevich](https://github.com/monkey0head)) | [slides](week_03_matrix_factorization/rs_lecture03.pdf)             | [video](https://www.youtube.com/watch?v=CTaPrTf89Xc)  |
-| 4 | March, 7 | Content-based and Hybrid systems <br /> ([A. Volodkevich](https://github.com/monkey0head)) | [slides](week_04_hybrid/rs_lecture04.pdf)                           | [video](https://www.youtube.com/watch?v=tQS_RKgm9o0)  |
-| 5 | March, 14 | Two-level models <br /> ([A. Volodkevich](https://github.com/monkey0head)) | [slides](week_05_multi-stage/rs_lecture05.pdf), [notebook](week_05_multi-stage/recsys_intro_2023.ipynb) | [video](https://www.youtube.com/watch?v=-wyl08Z_foA)  |
-| 6 | March, 21 | Neural recommenders <br /> ([A. Grishanov](https://github.com/shashist)) | [slides](week_06_neural_recommenders/rs_lecture06.pdf) |  [video](https://www.youtube.com/watch?v=v5QHslJGoHc) |
-| 7 | March, 28 | Multi-armed bandits <br /> ([A. Grishanov](https://github.com/shashist)) |[slides](week_07_bandits/rs_lecture07.pdf) | [video](https://www.youtube.com/watch?v=8EfKHNDBoyA) |
-| 8 | April, 4 | Counterfactual evaluation <br /> ([A. Grishanov](https://github.com/shashist)) | [slides](week_08_counterfactual/rs_lecture08.pdf) | [video](https://www.youtube.com/watch?v=pxlp87ya-eQ)|
-| 9 |  | |                                                                     |                                                       |
+| 1 | February, 13 | Introduction <br /> ([A. Grishanov](https://github.com/shashist)) | TBA | TBA |
+| 2 | February, 20 | Neighborhood-Based models <br /> ([A. Grishanov](https://github.com/shashist)) |  |  |
+| 3 | February, 27 | Matrix Factorization models <br /> ([A. Volodkevich](https://github.com/monkey0head)) |  |  |
+| 4 | March, 5     | Content-based and Hybrid systems <br /> ([A. Volodkevich](https://github.com/monkey0head)) |  |  |
+| 5 | March, 12    | Two-level models <br /> ([A. Grishanov](https://github.com/shashist)) |  |  |
+| 6 | March, 19    | Neural recommenders <br /> ([A. Volodkevich](https://github.com/monkey0head)) |  |  |
+| 7 | March, 26    | Multi-armed bandits <br /> ([A. Grishanov](https://github.com/shashist)) |  |  |
+| 8 | April, 2     | Counterfactual evaluation <br /> ([A. Grishanov](https://github.com/shashist)) |  |  |
+| 9 |              |  |  |  |
 
 
 
-## Homeworks
+## Homeworks (expected)
 
 | Homework | Date       | Deadline          | Description | Link                                  |
 |---------|------------|-------------------|--------|---------------------------------------|
-| 1 | March, 19 | April, 4 | practical | [Link](homeworks/hw_01/rs_hw01.ipynb) |
-| 2 | April, 9  | April, 23 | competition | [kaggle](https://www.kaggle.com/t/0800f2ae2090444b9ec0a4c70a293905) |
-| 3 | April, 26 | May, 9 | theoretical | [link](homeworks/hw_03/rs_hw3.pdf) |
+| 1 | March, 19 | April, 2 | practical | TBA |
+| 2 | April, 23 | May, 7 | theoretical | TBA |
 
 #### Grade = `min(round(#points), 10)`
