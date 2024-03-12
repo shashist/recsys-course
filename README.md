@@ -9,7 +9,7 @@ Course objective is to provide comprehensive introduction to the field of Recomm
 
 To join this course contact https://t.me/alexey_grishanov.
 
-## The Syllabys
+## The Syllabus
 
 | Lecture | Date         | Description                                                                            | Materials                                                                                                       | Video                                             |
 | ------- | ------------ | -------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- | ------------------------------------------------- |
@@ -25,9 +25,9 @@ To join this course contact https://t.me/alexey_grishanov.
 
 ## Homeworks (expected)
 
-| Homework | Date      | Deadline  | Description | Link |
-| -------- | --------- | --------- | ----------- | ---- |
-| 1        | March, 12 | March, 26 | practical   | TBA  |
-| 2        | April, 23 | May, 7    | theoretical | TBA  |
+| Homework | Date      | Deadline  | Description | Link                     |
+| -------- |-----------|-----------| ----------- |--------------------------|
+| 1        | March, 13 | March, 27 | practical   | [link](homeworks/hw_01/rs_hw01.ipynb) |
+| 2        | April, 23 | May, 7    | theoretical | TBA                      |
 
 #### Grade = `min(round(#points), 10)`
