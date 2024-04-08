@@ -19,8 +19,8 @@ To join this course contact https://t.me/alexey_grishanov.
 | 4       | March, 5     | Content-based and Hybrid systems<br /> ([A. Volodkevich](https://github.com/monkey0head)) | [slides](week_04_hybrid/rs_lecture04.pdf) | [video](https://www.youtube.com/watch?v=tVI6mL3kXwE) |
 | 5       | March, 12    | Two-level models<br /> ([A. Grishanov](https://github.com/shashist)) | [notebook](week_05_two-level/rs_seminar_2-level.ipynb) | [video](https://www.youtube.com/watch?v=N_W-oKpoDdI) |
 | 6       | March, 19    | Neural recommenders<br /> ([A. Volodkevich](https://github.com/monkey0head)) | [slides](week_06_neural_recommenders/rs_lecture06.pdf) [notebook](week_06_neural_recommenders/rs_sasrec_2024.ipynb) | [video](https://www.youtube.com/watch?v=Vzfw5-BgT7M) |
-| 7       | March, 26    | Multi-armed bandits<br /> ([A. Grishanov](https://github.com/shashist)) | [slides](week_07_bandits/rs_lecture07.pdf) |  [video](https://www.youtube.com/watch?v=N_W-oKpoDdI)                                                 |
-| 8       | April, 2     | Counterfactual evaluation<br /> ([A. Grishanov](https://github.com/shashist))             |                                                                                                                 |                                                   |
+| 7       | March, 26    | Multi-armed bandits<br /> ([A. Grishanov](https://github.com/shashist)) | [slides](week_07_bandits/rs_lecture07.pdf) | [video](https://www.youtube.com/watch?v=N_W-oKpoDdI) |
+| 8       | April, 2     | Counterfactual evaluation<br /> ([A. Grishanov](https://github.com/shashist)) | [slides](week_08_counterfactual/rs_lecture_08.pdf) | [video](https://www.youtube.com/watch?v=9CxVX31_IB0) |
 | 9       | April, 9     | Next-Basket Recommendations<br />([O. Lashinin](https://github.com/fotol1))               |                                                                                                                 |                                                   |
 
 ## Homeworks (expected)
@@ -28,6 +28,6 @@ To join this course contact https://t.me/alexey_grishanov.
 | Homework | Date      | Deadline  | Description | Link                     |
 | -------- |-----------|-----------| ----------- |--------------------------|
 | 1        | March, 13 | March, 27 | practical   | [link](homeworks/hw_01/rs_hw01.ipynb) |
-| 2        | April, 23 | May, 7    | theoretical | TBA                      |
+| 2        | April, 16 | April, 30 | theoretical | TBA                      |
 
 #### Grade = `min(round(#points), 10)`
