@@ -25,9 +25,10 @@ To join this course contact https://t.me/alexey_grishanov.
 
 ## Homeworks (expected)
 
-| Homework | Date      | Deadline  | Description | Link                     |
-| -------- |-----------|-----------| ----------- |--------------------------|
+| Homework | Date      | Deadline  | Description | Link                                  |
+| -------- |-----------|-----------| ----------- |---------------------------------------|
 | 1        | March, 13 | March, 27 | practical   | [link](homeworks/hw_01/rs_hw01.ipynb) |
-| 2        | April, 23 | May, 7 | theoretical | TBA                      |
+| 2        | April, 28 | May, 12   | theoretical | [link](homeworks/hw_02/rs_hw02.pdf)   |
 
-#### Grade = `min(round(#points), 10)`
+#### Grade = `min(round(\sum\limits points), 10)`
+
