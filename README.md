@@ -21,7 +21,7 @@ To join this course contact https://t.me/alexey_grishanov.
 | 6       | March, 19    | Neural recommenders<br /> ([A. Volodkevich](https://github.com/monkey0head)) | [slides](week_06_neural_recommenders/rs_lecture06.pdf) [notebook](week_06_neural_recommenders/rs_sasrec_2024.ipynb) | [video](https://www.youtube.com/watch?v=Vzfw5-BgT7M) |
 | 7       | March, 26    | Multi-armed bandits<br /> ([A. Grishanov](https://github.com/shashist)) | [slides](week_07_bandits/rs_lecture07.pdf) | [video](https://www.youtube.com/watch?v=N_W-oKpoDdI) |
 | 8       | April, 2     | Counterfactual evaluation<br /> ([A. Grishanov](https://github.com/shashist)) | [slides](week_08_counterfactual/rs_lecture08.pdf) | [video](https://www.youtube.com/watch?v=9CxVX31_IB0) |
-| 9       | April, 9     | Next-Basket Recommendations<br />([O. Lashinin](https://github.com/fotol1))               |                                                                                                                 |                                                   |
+| 9       | April, 9     | Next-Basket Recommendations<br />(guest lecture by [O. Lashinin](https://github.com/fotol1)) | [slides](week_08_counterfactual/rs_lecture08.pdf) | [video](https://www.youtube.com/watch?v=dXkVuXW4Uss)) |
 
 ## Homeworks (expected)
 
