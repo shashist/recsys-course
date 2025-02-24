@@ -13,7 +13,7 @@ To join this course contact https://t.me/alexey_grishanov.
 
 | Lecture | Date         | Description                                                                            | Materials                                                                                                       | Video                                             |
 | ------- | ------------ | -------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- | ------------------------------------------------- |
-| 1       | February, 18 | Introduction<br /> ([A. Grishanov](https://github.com/shashist)) | TBA | TBA |
+| 1       | February, 18 | Introduction<br /> ([A. Grishanov](https://github.com/shashist)) | [slides](week_01_introduction/rs_lecture01.pdf) | [video](https://www.youtube.com/live/otP9_cOBX9Q) |
 | 2       | February, 25 | Neighborhood-Based models<br /> ([A. Grishanov](https://github.com/shashist)) | | |
 | 3       | March, 4     | Matrix Factorization models<br /> ([A. Volodkevich](https://github.com/monkey0head)) | | |
 | 4       | March, 11    | Content-based and Hybrid systems<br /> ([A. Volodkevich](https://github.com/monkey0head)) | | |
