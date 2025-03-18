@@ -17,7 +17,7 @@ To join this course contact https://t.me/alexey_grishanov.
 | 2       | February, 25 | Neighborhood-Based models<br /> ([A. Grishanov](https://github.com/shashist)) | [slides](week_02_neighbourhood_based/rs_lecture02.pdf) [notebook](week_02_neighbourhood_based/rs_seminar1.ipynb) | [video](https://youtube.com/live/OvwZd_h0M0M) |
 | 3       | March, 4     | Matrix Factorization models<br /> ([A. Volodkevich](https://github.com/monkey0head)) | [slides](week_03_matrix_factorization/rs_lecture03.pdf) [notebook](week_03_matrix_factorization/rs_seminar_svd.ipynb) | [video](https://www.youtube.com/live/zK9nFFEnTrg) |
 | 4       | March, 11    | Content-based and Hybrid systems<br /> ([A. Volodkevich](https://github.com/monkey0head)) |  [slides](week_04_hybrid/rs_lecture04.pdf) | |
-| 5       | March, 18    | Two-level models<br /> ([A. Grishanov](https://github.com/shashist)) | | |
+| 5       | March, 18    | Two-level models<br /> ([A. Grishanov](https://github.com/shashist)) | [notebook](week_05_two-level/rs_seminar_2-level.ipynb) | |
 | 6       | March, 25    | Neural recommenders<br /> ([A. Volodkevich](https://github.com/monkey0head)) | | |
 | 7       | April, 1     | Multi-armed bandits<br /> ([A. Grishanov](https://github.com/shashist)) | | |
 | 8       | April, 8     | Counterfactual evaluation<br /> ([A. Grishanov](https://github.com/shashist)) | | |
