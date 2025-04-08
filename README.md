@@ -28,6 +28,6 @@ To join this course contact https://t.me/alexey_grishanov.
 | Homework | Date      | Deadline  | Description | Link                                  |
 | -------- |-----------|-----------| ----------- |---------------------------------------|
 | 1        | March, 11 | March, 25 | practical   | [notebook](homeworks/hw_01/rs_hw01.ipynb) |
-| 2        | April, 8  | April, 22 | theoretical | |
+| 2        | April, 8  | April, 22 | theoretical | [link](homeworks/hw_02/rs_hw02.pdf)|
 
 #### Grade = `min(round(#points), 10)`
