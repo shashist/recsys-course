@@ -30,3 +30,8 @@ To join this course contact https://t.me/alexey_grishanov.
 | 2        | April, 8  | April, 22 | theoretical | [link](homeworks/hw_02/rs_hw02.pdf)|
 
 #### Grade = `min(round(#points), 10)`
+
+
+## Additional materials
+* [single-lecture course overview (in Russian)](https://www.youtube.com/watch?v=jEzNbEc7DFE) - overview lecture with Q&A, 2025
+* ["Recommender systems and RePlay library" course (in Russian)](https://sberuniversity.ru/learning/course/rekomendatelnye-sistemy-i-biblioteka-replay) - friendly course from https://github.com/sb-ai-lab/RePlay team
