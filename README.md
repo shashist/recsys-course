@@ -13,20 +13,20 @@ To join this course contact https://t.me/alexey_grishanov.
 
 | Lecture | Date         | Description                                                                            | Materials                                                                                                       | Video                                             |
 | ------- | ------------ | -------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- | ------------------------------------------------- |
-| 1       | February, 17 | Introduction<br /> ([A. Grishanov](https://github.com/shashist)) | TBA | TBA |
-| 2       | February, 24 | Neighborhood-Based models<br /> ([A. Grishanov](https://github.com/shashist)) |  |  |
-| 3       | March, 3     | Matrix Factorization models<br /> ([A. Grishanov](https://github.com/shashist)) |  |  |
-| 4       | March, 10    | Content-based and Hybrid systems<br /> ([A. Grishanov](https://github.com/shashist)) |  |  |
-| 5       | March, 17    | Neural recommenders<br /> ([A. Grishanov](https://github.com/shashist)) |  |  |
-| 6       | March, 24    | Two-level models<br /> ([A. Grishanov](https://github.com/shashist)) |  |  |
-| 7       | March, 31     | Multi-armed bandits<br /> ([A. Grishanov](https://github.com/shashist)) |  |  |
-| 8       | April, 7     | Counterfactual evaluation<br /> ([A. Grishanov](https://github.com/shashist)) |  |  |
+| 1       | February, 24 | Introduction<br /> ([A. Grishanov](https://github.com/shashist)) | TBA | TBA |
+| 2       | March, 3     | Neighborhood-Based models<br /> ([A. Grishanov](https://github.com/shashist)) |  |  |
+| 3       | March, 10     | Matrix Factorization models<br /> ([A. Grishanov](https://github.com/shashist)) |  |  |
+| 4       | March, 17    | Content-based and Hybrid systems<br /> ([A. Grishanov](https://github.com/shashist)) |  |  |
+| 5       | March, 24    | Neural recommenders<br /> ([A. Grishanov](https://github.com/shashist)) |  |  |
+| 6       | March, 31    | Two-level models<br /> ([A. Grishanov](https://github.com/shashist)) |  |  |
+| 7       | April, 7     | Multi-armed bandits<br /> ([A. Grishanov](https://github.com/shashist)) |  |  |
+| 8       | April, 14     | Counterfactual evaluation<br /> ([A. Grishanov](https://github.com/shashist)) |  |  |
 
 ## Homeworks
 
 | Homework | Date      | Deadline  | Description | Link                                  |
 | -------- |-----------|-----------| ----------- |---------------------------------------|
-| 1        | March, 17 | March, 31 | practical   | TBA |
+| 1        | March, 24 | April, 7 | practical   | TBA |
 | 2        | April, 8  | April, 22 | theoretical | TBA |
 
 #### Grade = `min(round(#points), 10)`
