@@ -20,7 +20,7 @@ To join this course contact https://t.me/alexey_grishanov.
 | 5       | March, 17    | Neural recommenders<br /> ([A. Grishanov](https://github.com/shashist)) |  |  |
 | 6       | March, 24    | Two-level models<br /> ([A. Grishanov](https://github.com/shashist)) |  |  |
 | 7       | March, 31     | Multi-armed bandits<br /> ([A. Grishanov](https://github.com/shashist)) |  |  |
-| 8       | March, 7     | Counterfactual evaluation<br /> ([A. Grishanov](https://github.com/shashist)) |  |  |
+| 8       | April, 7     | Counterfactual evaluation<br /> ([A. Grishanov](https://github.com/shashist)) |  |  |
 
 ## Homeworks
 
