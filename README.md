@@ -26,8 +26,8 @@ To join this course contact https://t.me/alexey_grishanov.
 
 | Homework | Date      | Deadline  | Description | Link                                  |
 | -------- |-----------|-----------| ----------- |---------------------------------------|
-| 1        | April, 4 | April, 18 | practical   | TBA |
-| 2        | April, 19  | May, 3 | theoretical | TBA |
+| 1        | April, 5 | April, 19 | practical   | TBA |
+| 2        | April, 20  | May, 4 | theoretical | TBA |
 
 #### Grade = `min(round(#points), 10)`
 
