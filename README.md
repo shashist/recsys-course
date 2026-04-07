@@ -18,7 +18,7 @@ To join this course contact https://t.me/alexey_grishanov.
 | 3       | March, 10     | Matrix Factorization models<br /> ([A. Grishanov](https://github.com/shashist)) | [slides](https://nbviewer.org/github/shashist/recsys-course/blob/main/week_03_matrix_factorization/rs_lecture03.pdf) | [video](https://www.youtube.com/live/m426XhlRPoA?si=Sj_Gjp4eV0B9wPtl) |
 | 4       | March, 17    | Content-based and Hybrid systems<br /> ([A. Grishanov](https://github.com/shashist)) | [slides](https://nbviewer.org/github/shashist/recsys-course/blob/main/week_04_hybrid/rs_lecture04.pdf) | [video](https://www.youtube.com/live/lTxKWNAe1bU) |
 | 5       | March, 24    | Neural recommenders<br /> ([A. Grishanov](https://github.com/shashist)) | [slides](https://github.com/shashist/recsys-course/blob/main/week_05_neural_recommenders/rs_lecture05.pdf) | [video](https://www.youtube.com/live/D82dz9h6cOI?si=F6xS0CgVsgvJVF0n) |
-| 6       | April, 7    | Two-level models<br /> ([A. Grishanov](https://github.com/shashist)) |  |  |
+| 6       | April, 7    | Two-level models<br /> ([A. Grishanov](https://github.com/shashist)) | [notebook](https://github.com/shashist/recsys-course/blob/main/week_06_two-level/rs_seminar_2-level.ipynb) | [video](https://youtube.com/live/u-q792ePM6g) |
 | 7       | April, 14     | Multi-armed bandits<br /> ([A. Grishanov](https://github.com/shashist)) |  |  |
 | 8       | April, 21     | Counterfactual evaluation<br /> ([A. Grishanov](https://github.com/shashist)) |  |  |
 
@@ -26,8 +26,8 @@ To join this course contact https://t.me/alexey_grishanov.
 
 | Homework | Date      | Deadline  | Description | Link                                  |
 | -------- |-----------|-----------| ----------- |---------------------------------------|
-| 1        | April, 7 | April, 21 | practical   | TBA |
-| 2        | April, 22  | May, 6 | theoretical | TBA |
+| 1        | April, 9 | April, 23 | practical   | TBA |
+| 2        | April, 24  | May, 8 | theoretical | TBA |
 
 #### Grade = `min(round(#points), 10)`
 
