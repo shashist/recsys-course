@@ -27,7 +27,7 @@ To join this course contact https://t.me/alexey_grishanov.
 | Homework | Date      | Deadline  | Description | Link                                  |
 | -------- |-----------|-----------| ----------- |---------------------------------------|
 | 1        | April, 28 | May, 19 |  theoretical  | [link](homeworks/hw_bandits/rs_hw_bandits_en.pdf) |
-| 2        | May, 14 | May, 28 | practical | TBA |
+| 2        | May, 16 | May, 30 | practical | TBA |
 
 #### Grade = `min(round(#points), 10)`
 
